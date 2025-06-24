@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "Rosie's Homepage"
-title                    : "Rosie Bai / Site Title"
+title                    : "Rosie Bai's Homepage"
 title_separator          : "-"
 name                     : &name "Rosie (Yuqing) Bai"
 description              : &description "personal website"
@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Rosie (Yuqing) Bai"
+  pronouns         : # example: "any pronouns"  
+  bio              : "Rosie is a conservation biologist."
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
