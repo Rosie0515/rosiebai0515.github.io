@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Your Name / Site Title"
+site_theme               : "Rosie's Homepage"
+title                    : "Rosie Bai / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
